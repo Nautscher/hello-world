@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+Hi,
+
+I am a Finance Guy trying to work my way into Coding...
+
+Nautscher
